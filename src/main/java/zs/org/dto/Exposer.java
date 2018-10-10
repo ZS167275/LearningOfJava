@@ -6,6 +6,8 @@ package zs.org.dto;
  */
 public class Exposer {
 
+    // 封装
+
     // 是否暴露
     private boolean exposed;
 
